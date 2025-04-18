@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: testJono
-description: test test
+description: Test test.
 featured_image: /images/demo/about.jpg
 ---
 
