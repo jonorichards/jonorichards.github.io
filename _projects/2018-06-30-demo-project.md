@@ -1,8 +1,8 @@
 ---
-title: 'jono test'
-subtitle: 'This is a demo'
+title: 'And..Breathe'
+subtitle: 'Interactive Sound & Light Structure'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: I've been working on an interactive installation with the wonderful Pif-Paf Theatre
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
