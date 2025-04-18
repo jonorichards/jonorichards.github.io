@@ -3,6 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
+  header_tagline: Sound Design and Creative Technology.
   logo_image: 
   logo_width: 200
 
