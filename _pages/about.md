@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Personal is the perfect theme for developers, designers and other creatives./testJono
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
