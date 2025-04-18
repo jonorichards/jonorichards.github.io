@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Hello, I'm Jono, a Sound Designer, Creativee Technologist and Arts Practitioner based in Sheffield UK
+  footer_tagline: Sound Design & Creative Technology
 
 hero_settings:
   overlay_opacity: 0.8
