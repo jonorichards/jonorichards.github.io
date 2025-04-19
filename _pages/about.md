@@ -9,6 +9,8 @@ featured_image: /images/jono/me_modular.jpg
 
 Work in progress**
 I am a creative proffessional with over 25 years experience working in the Arts. 
+Sound Designer & Music Practitioner skilled in Audio Production, Implementation & Interactive A/V Tech. Creative & critical thinker. MSc Sound & Music for Interactive Games : Leeds Beckett University
+
 
 ## Key Skills
 
