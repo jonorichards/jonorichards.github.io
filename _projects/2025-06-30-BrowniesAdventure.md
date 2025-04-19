@@ -6,15 +6,12 @@ description: For the last year i've been working with local game dev Rich Brown 
 featured_image: '/images/jono/padley.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/jono/padley.jpg)
 
-## Demo content
+## Brownie's Adventure - The Final Resolution
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+I'm currently contracted by Beardie Rambling Games here in Sheffield to provide sound dsign for an upcoming adventure game.
+Based partly in Sheffield and the Peak District and partly in a magical dimention, a bit like me really..it's been a lot of fun to work on!
 
 You can create lists:
 
