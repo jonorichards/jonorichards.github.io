@@ -2,13 +2,13 @@
 title: About me
 subtitle: 
 description:
-featured_image: /images/jono/abome_modular.jpg
+featured_image: /images/jono/me_modular.jpg
 ---
 
 ## About Me
 
-WIP.
-I am a creative proffessional with over 25 years experience working in thwe Arts. blah WIP
+Work in progress**
+I am a creative proffessional with over 25 years experience working in the Arts. 
 
 ## Key Skills
 

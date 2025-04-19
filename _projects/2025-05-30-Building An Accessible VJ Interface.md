@@ -8,6 +8,39 @@ featured_image: '/images/jono/maxmsp_vj.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
+Work in progress**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
