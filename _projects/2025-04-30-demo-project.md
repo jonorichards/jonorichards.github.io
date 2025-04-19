@@ -6,7 +6,7 @@ description: I've been working on an interactive installation with the wonderful
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/jono/andbreatheroth.jpg)
 
 
 ## And..Breathe
