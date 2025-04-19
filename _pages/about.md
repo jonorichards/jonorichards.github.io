@@ -1,32 +1,25 @@
 ---
 title: About me
-subtitle: testJono
-description: Test test.
-featured_image: /images/demo/about.jpg
+subtitle: 
+description:
+featured_image: /images/jono/abome_modular.jpg
 ---
 
-## Features
+## About Me
 
-We've packed Personal full of powerful features to help showcase your work:
+WIP.
+I am a creative proffessional with over 25 years experience working in thwe Arts. blah WIP
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Key Skills
 
-## Get Personal
+Here are some of my key tools and skills:
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+* Max MSP
+* Touch Designer
+* Unreal Engine
+* Wwise
+* Reaper
+* Ableton Live
+* Microcontrollers (ie Arduino, ESP32)
+* Izotope RX
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
