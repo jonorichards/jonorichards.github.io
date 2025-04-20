@@ -2,8 +2,8 @@
 title: 'Building An Accesible VJ Interface'
 subtitle: 'Accessible Technology'
 date: 2024-06-30 00:00:00
-description: Working with disabled artists at Under The Stars, I co-developed an accessible VJ system for them to use at thier nightclub and gigs
-featured_image: '/images/jono/maxvjlondon1.jpg'
+description: Working with disabled artists at Under The Stars, I co-developed an accessible VJ system for use at thier nightclub and gigs
+featured_image: '/images/jono/vjlondon1.jpg'
 ---
 
 ![](/images/jono/maxmsp_vj.jpg)
@@ -12,8 +12,7 @@ Work in progress**
 
 
 
-freelancing at [Under The Stars](https://https://underthestars.org.uk/).
-
+Disabled artists at [Under The Stars](https://https://underthestars.org.uk/) wanted to build on thier work 
 
 
 
