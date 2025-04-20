@@ -8,5 +8,7 @@ featured_image: '/images/jono/padley.jpg'
 
 ## Brownie's Adventure - The Final Resolution
 
-I'm currently contracted by Beardie Rambling Games here in Sheffield to provide sound dsign for an upcoming adventure game.
+I'm currently contracted by Beardie Rambling Games here in Sheffield to provide sound design and audio mixing for an upcoming adventure game.
 Based partly in Sheffield and the Peak District and partly in a magical dimention, a bit like me really..it's been a lot of fun to work on!
+As a veteran Point & Click Adventure fan, it's a real treat to be working on this project, for the nostalgia and to be working alongside the talented Richard Brown (link).
+The demo is now available to play on Steam (link) and it's set for release in autumn 2025.
