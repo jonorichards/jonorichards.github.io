@@ -12,3 +12,5 @@ I'm currently contracted by Beardie Rambling Games here in Sheffield to provide 
 Based partly in Sheffield and the Peak District and partly in a magical dimention, a bit like me really..it's been a lot of fun to work on!
 As a veteran Point & Click Adventure fan, it's a real treat to be working on this project, for the nostalgia and to be working alongside the talented Richard Brown (link).
 The demo is now available to play on Steam (link) and it's set for release in autumn 2025.
+
+Shortly after the release of the demo, we recieved quite a bit of press, the most noteworthy being a feature on BBC news (link).
