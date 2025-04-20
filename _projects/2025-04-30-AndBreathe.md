@@ -6,7 +6,7 @@ description: I've been working on an interactive installation with the wonderful
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
-![](/images/jono/andbreathroth.jpg)
+![](/images/jono/andbreatheroth.jpg)
 
 
 ## And..Breathe
@@ -17,8 +17,8 @@ A new sound and light installation from  [Pif-Paf](https://pif-paf.co.uk/portfol
 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/jono/andbreatheroth.jpg">
+	<img src="/images/jono/andbreatheroth.jpg">
 </div>
 
 
