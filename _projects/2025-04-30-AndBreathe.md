@@ -20,6 +20,8 @@ A new sound and light installation from  [Pif-Paf](https://pif-paf.co.uk/portfol
 	<img src="/images/jono/deskab.jpg">
 	<img src="/images/jono/ppdesk.jpg">
 	<img src="/images/jono/ppworkshop3.jpg">
+	<img src="/images/jono/ppxmasroth1.jpg">
+	<img src="/images/jono/pprothwh1.jpg">
 </div>
 
 
