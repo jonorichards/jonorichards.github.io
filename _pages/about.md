@@ -7,10 +7,13 @@ featured_image: /images/jono/me_modular.jpg
 
 ## About Me
 
-<div class="gallery" data-columns="1">
-	<img src="/images/jono/me_modular.jpg">
-	<img src="/images/jono/monksdale.jpg">
+<div class="gallery" data-columns="3">
+    <img src="/images/jono/me_modular.jpg">
+    <img src="/images/jono/monksdale.jpg">
+    <img src="/images/jono/me_modular.jpg">
+    <img src="/images/jono/monksdale.jpg">
 </div>
+
 
 Work in progress**
 Hello I'm Jono, a Sound Designer, Creative Technologist and Community Arts Practitioner based in Sheffield UK.
