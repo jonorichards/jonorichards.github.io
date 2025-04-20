@@ -10,8 +10,8 @@ featured_image: /images/jono/me_modular.jpg
 <div class="gallery" data-columns="3">
     <img src="/images/jono/me_modular.jpg">
     <img src="/images/jono/monksdale.jpg">
-    <img src="/images/jono/me_modular.jpg">
-    <img src="/images/jono/monksdale.jpg">
+    <img src="/images/jono/fieldrec1.jpg">
+    <img src="/images/jono/fieldrec2.jpg">
 </div>
 
 
