@@ -3,7 +3,7 @@ title: How Do You Make Green Hydrogen? - The Secrets Behind PEM Electrolysis
 subtitle: 'Commercial Sound Design'
 date: 2025-03-30 00:00:00
 description: In April 2022 I was commissioned by Motion Videos UK to provide sound design and audio mixing for an educational feature about Green Hydrogen
-featured_image: '/images/jono/padley.jpg'
+featured_image: '/images/jono/ITM1.jpg'
 ---
 
 ## How Do You Make Green Hydrogen? - The Secrets Behind PEM Electrolysis
