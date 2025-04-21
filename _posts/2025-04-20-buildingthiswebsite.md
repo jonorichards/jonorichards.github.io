@@ -1,6 +1,6 @@
 ---
 title: 'Building a Website'
-date: 2025-04-21 00:00:00
+date: 2025-04-20 00:00:00
 description: Hello! and a quick note about the site
 featured_image: '/images/jono/websitebuilding.jpg'
 ---
