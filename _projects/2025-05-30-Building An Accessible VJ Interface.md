@@ -15,7 +15,9 @@ I documented the whole process and put together a video for Under The Stars to s
 
 <iframe src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-In April we travelled down to London to the Crux - Festival of Audio-Visual Arts (link). Here we teamed up with the fastastic Drake Music (link) to showcase our work.
+The system has now been used at numerous events such as [Tramlines Festival](https://tramlines.org.uk), gigs at [Yellow Arch Studios](https://yellowarch.com) and the organisations own bi-monthly nightclub at [The Leadmill](https://leadmill.co.uk). 
+
+In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https://festival.crux-events.org) to showcase our project along with the fastastic [Drake Music](https://drakemusic.org).
 
 ![](/images/jono/cruxfestmain.jpg)
 
