@@ -17,7 +17,7 @@ Through my creative sessional work with disabled artists at [Under The Stars](ht
 <iframe src="https://www.youtube.com/watch?v=vibqQOKL_s4&t=110s" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 I documented the whole process and put together a video for Under The Stars to showcase our development process, you can watch it here.
-https://www.youtube.com/watch?v=vibqQOKL_s4&t=110s
+
 
 ![](/images/jono/cruxfestmain.jpg)
 
