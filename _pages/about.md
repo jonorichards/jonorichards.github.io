@@ -2,12 +2,12 @@
 title: About me
 subtitle: 
 description:
-featured_image: /images/jono/me_modular.jpg
+featured_image: /images/jono/me_modular_rs.jpg
 ---
 
 ## About Me
 
-![](/images/jono/me_modular.jpg)
+![](/images/jono/me_modular_rs.jpg)
 
 Hello I'm Jono, a Sound Designer, Creative Technologist and Community Arts Practitioner based in Sheffield UK.
 I provide sound and technology for installations, games, commercials, sample libraries, film and theatre projects. As an arts practitioner, I offer workshop sessions as well as bespoke technical solutions with a focus on accessibility.
