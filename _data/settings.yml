@@ -33,9 +33,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'www.instagram.com/jono_ripples'
-  twitter_url: 'bsky.app/profile/jonorichards.sky.social'
-  instagram_url: 'www.instagram.com/jono_ripples'
+  facebook_url: ''
+  twitter_url: 'https://bsky.app/profile/jonorichards.sky.social'
+  instagram_url: 'https://www.instagram.com/jono_ripples'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -55,10 +55,10 @@ social_settings:
   flickr_url: ''
   etsy_url: ''
   kickstarter_url: ''
-  soundcloud_url: 'soundcloud.com/johnnysideways'
+  soundcloud_url: 'https://soundcloud.com/johnnysideways'
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'www.linkedin.com/in/jonathan-richards-06261b243'
+  linkedin_url: 'https://www.linkedin.com/in/jonathan-richards-06261b243'
 
 color_settings:
   background_color: '#ffffff'
