@@ -16,6 +16,6 @@ The demo is now available to play on the popular gaming platfrom [Steam](https:/
 
 ![](/images/jono/BBC1_resize.jpg)
 
-Shortly after the release of the demo, we recieved quite a bit of press, the most noteworthy being a feature on [BBC News](https://bbc.co.uk/news/articles/crrzdpdzqv0o) as well as a radio feature on [Radio Derby].
+Shortly after the release of the demo, we recieved quite a bit of press, the most noteworthy being a feature on the [BBC News](https://bbc.co.uk/news/articles/crrzdpdzqv0o) website as well as an additonal radio feature on BBC Radio Derby.
 
 <iframe src="https://www.youtube.com/embed/jxjwof-R7Wc?si=Gx-rWTHZPSVWqQoS" width="640" height="360" frameborder="0" allowfullscreen></iframe>
