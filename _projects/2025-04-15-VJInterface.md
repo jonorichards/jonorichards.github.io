@@ -1,30 +1,26 @@
 ---
-title: 'And..Breathe'
-subtitle: 'Interactive Sound & Light Structure'
+title: Building An Accesible VJ Interface
+subtitle: 'test'
 date: 2025-02-30 00:00:00
-description: I recently collaborated on an interactive sound & light installation with the wonderful Pif-Paf Theatre company
+description: 
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
-![](/images/jono/andbreatheroth.jpg)
+![](/images/jono/vjlondon1.jpg)
+
+## Building An Accessible VJ Interface
+
+Through my creative sessional work with disabled artists at [Under The Stars](https://underthestars.org.uk/) I co-developed an assessible VJ system for workshop participants to use at gigs and their regular nightclub events. The project was realised over several months, while iterating and testing it with the group. This project has been a great success, allowing those who would not usually have access to this kind of technology to improvise thier own unique visual content along with music.
+
+The system has now been used at numerous events such as [Tramlines Festival](https://tramlines.org.uk), gigs at [Yellow Arch Studios](https://yellowarch.com) and the organisations own bi-monthly nightclub at [The Leadmill](https://leadmill.co.uk). 
+
+In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https://festival.crux-events.org) to showcase our project along with the fastastic [Drake Music](https://drakemusic.org). It was a real honour for the work to be recognised by such a pioneering organisation who's values I share deeply.
+
+![](/images/jono/cruxfestmain.jpg)
+
+I documented the whole project and put together a video for Under The Stars to showcase our development process, you can watch it here.
+
+<iframe src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
-## And..Breathe
-
-
-I was recently commissioned by [Pif-Paf Theatre](https://pif-paf.co.uk) to help develop an interactive sound and light installation called [And..Breathe](https://pif-paf.co.uk/portfolio/and-breath).
-
-It explores breath, breathing alone and breathing together, mixing science and the raw joy playing together. A tactile piece that encourages interaction and mindfulness.
-
-Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone as well as globally across its architecture.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/jono/deskab.jpg">
-	<img src="/images/jono/ppdesk.jpg">
-	<img src="/images/jono/ppworkshop3.jpg">
-	<img src="/images/jono/ppxmasroth1.jpg">
-	<img src="/images/jono/pprothwh1.jpg">
-</div>
-
-A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. And..Breathe is now touring across the UK.
 
