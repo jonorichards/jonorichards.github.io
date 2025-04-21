@@ -9,7 +9,7 @@ featured_image: '/images/jono/websitebuilding.jpg'
 
 ## Building a Website
 
-Hi! Kicking off this blog with a quick note about the site. I'd been needing somewhere to document my projects for some time, having quite a range of projects to showcase. In the past when i was working predominently as a musician, I focussed on Facebook and Soundcloud as a means of promoting my work. These days my projects are really varied, necessitating a home for things that isn't focussed on one area of creativity.
+Hi! Kicking off this blog with a quick note about the site. I'd been needing somewhere to document my work for some time, having diversified my creative endevours and having a broad range of projects to showcase. In the past when i was working predominently as a musician, I focussed on music hosting services such as [Soundcloud](https://https://soundcloud.com/johnnysideways) and  [Bandcamp](https://joohnnysideways.bandcamp.com) as a means of promoting my work. These days my projects are really varied, necessitating a home for things that isn't focussed on one area of creativity.
 
 Having no web development experience but wanting autonomy from the various cut & paste design and hosting services, I found out that it is possible to host your own static website as a Github repo..for free! This seemed like a no-brainer since it would give me the aforementioned autonomy i desired as well as demonstrating my ability to use Github without me explicity having to say so, due to the free 'github.io' handle. Whilst it is possible to buy a custom domain name and point to it, i quite like the Github handle so for now i'll see how that go's.
 
