@@ -1,8 +1,8 @@
 ---
-title: Building an Acessible VJ Interface
+title: 'Building An Accesible VJ Interface'
 subtitle: 'Accessible Technology'
-date: 2025-03-30 00:00:00
-description: 
+date: 2025-04-30 00:00:00
+description: Working with disabled artists at Under The Stars, I co-developed an accessible VJ system for use at thier nightclub and gigs
 featured_image: '/images/jono/vjlondon1.jpg'
 ---
 
@@ -19,6 +19,12 @@ In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https
 I documented the whole project and put together a video for Under The Stars to showcase our development process, you can watch it here.
 
 <iframe src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
 
 
 
