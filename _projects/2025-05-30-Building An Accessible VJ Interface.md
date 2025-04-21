@@ -12,7 +12,7 @@ Through my creative sessional work with disabled artists at [Under The Stars](ht
 
 The system has now been used at numerous events such as [Tramlines Festival](https://tramlines.org.uk), gigs at [Yellow Arch Studios](https://yellowarch.com) and the organisations own bi-monthly nightclub at [The Leadmill](https://leadmill.co.uk). 
 
-In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https://festival.crux-events.org) to showcase our project along with the fastastic [Drake Music](https://drakemusic.org).
+In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https://festival.crux-events.org) to showcase our project along with the fastastic [Drake Music](https://drakemusic.org). It was a real honour for the work to be recognised by such a pioneering organisation who's values I share deeply.
 
 ![](/images/jono/cruxfestmain.jpg)
 
