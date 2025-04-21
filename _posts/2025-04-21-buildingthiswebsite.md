@@ -2,7 +2,7 @@
 title: 'Building a Website'
 date: 2025-04-21 00:00:00
 description: Hi!
-featured_image: '/images/jono/me_modulawebsitebuilding.jpg'
+featured_image: '/images/jono/websitebuilding.jpg'
 ---
 
 ![](/images/jono/websitebuilding.jpg)
@@ -13,96 +13,10 @@ Hi! Kicking off this blog with a quick note about the site. I'd been needing som
 
 Having no web development experience but wanting autonomy from the various cut & paste design and hosting services, I found out that it is possible to host your own static website as a Github repo..for free! This seemed like a no-brainer since it would give me the aforementioned autonomy i desired as well as demonstrating my ability to use Github without me explicity having to say so, due to the free 'github.io' handle.
 
-After instlling Ruby and Jekyll in the command line, I set up  Github Pages site and instaalled a basic portfolio theme. Having customised the layout and settings I then proceeded to fill out the various sections with my projects and other info. 
+After installing [Ruby](https://ruby-lang.org/en/) and [Jeyll](https://jekyllrb.com) in the command line, I set up a [Github Pages](https://pages.github.com) site and installed a basic Jekyll portfolio theme. Having customised the layout and settings I then proceeded to fill out the various sections with my projects and other info using Markdown formatting.
 
-It's been really nice going through some of these pieces of work again, reflecting on how much i've learnt since.In addition to the project page, I aim to use this blog to document all the additional leearning and experiments that don't fall into the 'project' catagory.. I'm always learning something new, which whill hopefully be of interest to others!
+It's been really nice going through some of these pieces of work again, reflecting on how much i've learnt since. In addition to the project page, I aim to use this blog to document all the additional leearning and experiments that don't fall into the 'project' catagory.. I'm always learning something new, which will hopefully be of interest to others!
 
 Cheers
 J
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
