@@ -2,7 +2,7 @@
 title: 'Brownies Adventure - The Final Resolution'
 subtitle: 'Game Audio'
 date: 2025-01-30 00:00:00
-description: I'm currently working with local game dev Rich Brown on an original Point & Click Adventure game. Demo available now on Steam.
+description: I'm currently working with local game dev Rich Brown on an original Point & Click Adventure game. Demo available now on Steam
 featured_image: '/images/jono/padley.jpg'
 ---
 
