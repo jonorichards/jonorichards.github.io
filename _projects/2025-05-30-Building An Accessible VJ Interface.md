@@ -16,8 +16,6 @@ Through my creative sessional work with disabled artists at [Under The Stars](ht
 
 <iframe src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 I documented the whole process and put together a video for Under The Stars to showcase our development process, you can watch it here.
 
 
