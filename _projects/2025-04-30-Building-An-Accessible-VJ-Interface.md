@@ -5,8 +5,9 @@ date: 2025-04-30 00:00:00
 description: Working with disabled artists at Under The Stars, I co-developed an accessible VJ system for use at thier nightclub and gigs
 featured_image: '/images/jono/vjlondon1.jpg'
 ---
-
 ![](/images/jono/vjlondon1.jpg)
+
+## Building An Accessible VJ Interface
 
 Through my creative sessional work with disabled artists at [Under The Stars](https://underthestars.org.uk/) I co-developed an assessible VJ system for workshop participants to use at gigs and their regular nightclub events. The project was realised over several months, while iterating and testing it with the group. This project has been a great success, allowing those who would not usually have access to this kind of technology to improvise thier own unique visual content along with music.
 
