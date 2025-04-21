@@ -12,7 +12,11 @@ featured_image: '/images/jono/andbreatheroth.jpg'
 ## And..Breathe
 
 
-A new sound and light installation from  [Pif-Paf](https://pif-paf.co.uk/portfolio/and-breath) exploring breath, breathing alone and breathing together, mixing science and the raw joy playing together. A tactile piece that encourages interaction and mindfulness… And… Breathe
+I was recently commissioned by [Pif-Paf Theatre co.](https://pif-paf.co.uk) to help develop an interactive sound and light installation called [And..Breathe](https://pif-paf.co.uk/portfolio/and-breath).
+
+It explores breath, breathing alone and breathing together, mixing science and the raw joy playing together. A tactile piece that encourages interaction and mindfulness.
+
+Collaboraating on this project I made use of TouchDesigner, Ableton Live and the Arduino and ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone and globally across its architecture.
 
 
 
