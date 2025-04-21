@@ -8,7 +8,8 @@ featured_image: '/images/jono/vjlondon1.jpg'
 
 ![](/images/jono/maxmsp_vj.jpg)
 
-Through my creative sessional work with disabled artists at [Under The Stars](https://https://underthestars.org.uk/) I co-developed an assessible VJ system for workshop participants to use at gigs and their regualr nightclub events. The project was realised over several months, while iterating and testing it with the group. This project has been a great success, allowing those who would not usually have access to this kind of technology to improvise thier own unique visual content along with music.
+Through my creative sessional work with disabled artists at [Under The Stars](https://underthestars.org.uk/) I co-developed an assessible VJ system for workshop participants to use at gigs and their regualr nightclub events. The project was realised over several months, while iterating and testing it with the group. This project has been a great success, allowing those who would not usually have access to this kind of technology to improvise thier own unique visual content along with music.
+(https://https://underthestars.org.uk/)
 
 I documented the whole process and put together a video for Under The Stars to showcase our development process, you can watch it here.
 
