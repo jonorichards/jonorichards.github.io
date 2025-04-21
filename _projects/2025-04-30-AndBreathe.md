@@ -16,7 +16,7 @@ I was recently commissioned by [Pif-Paf Theatre](https://pif-paf.co.uk) to help 
 
 It explores breath, breathing alone and breathing together, mixing science and the raw joy playing together. A tactile piece that encourages interaction and mindfulness.
 
-Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone and globally across its architecture.
+Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone as well as globally across its architecture.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/jono/deskab.jpg">
