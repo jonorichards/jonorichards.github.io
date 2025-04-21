@@ -17,7 +17,7 @@ Having no prior web development experience but wanting autonomy from the various
 
 After installing [Ruby](https://ruby-lang.org/en/) and [Jeyll](https://jekyllrb.com) in the command line, I set up a [Github Pages](https://pages.github.com) site and installed a Jekyll portfolio theme. Having customised the layout and settings I then proceeded to fill out the various sections with my projects and other info using Markdown formatting.
 
-It's been really nice going through some of these pieces of work again, reflecting on how much i've learnt since, nd a nice challenge to build my own site and be free from greedy hosting businesses. In addition to the project page, I aim to use this blog to document all the additional work and experiments that don't fall into the 'project' catagory.. I'm always learning something new, which will hopefully be of interest to others!
+It's been really nice going through some of these pieces of work again, reflecting on how much i've learnt since, and a nice challenge to build my own site and be free from greedy hosting businesses. In addition to the project page, I aim to use this blog to document all the additional work and experiments that don't fall into the 'project' catagory.. I'm always learning something new, which will hopefully be of interest to others!
 
 Cheers
 J
