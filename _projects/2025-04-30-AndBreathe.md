@@ -2,7 +2,7 @@
 title: 'And..Breathe'
 subtitle: 'Interactive Sound & Light Structure'
 date: 2018-06-30 00:00:00
-description: I've been working on an interactive installation with the wonderful Pif-Paf Theatre
+description: I recently collaborated on an interactive installation with the wonderful Pif-Paf Theatre co.
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
