@@ -14,7 +14,7 @@ I provide sound and technology for installations, games, commercials, sample lib
 
 I have a background in music production spanning over 25 years having worked as a [solo artist](https://soundcloud.com/johnnysideways) and collaborator on many projects. Throughout this time I have worked with numerous teams and professionals across multiple disciplines in the arts.
 
- In 2023 I recieved an [MSc in Sound & Music for Interactive Games](https://leedsbeckett.ac.uk/courses/sound-music-interactive-games-msc/) with Distiction from Leeds Beckett University, this lead to my current development in interactive and immersive media. I am now focussed on both audio and visual system design using tools such as MaxMSP, Unreal/Wwise and TouchDesigner.
+ In 2023 I recieved an [MSc in Sound & Music for Interactive Games](https://leedsbeckett.ac.uk/courses/sound-music-interactive-games-msc/) with Distiction from Leeds Beckett University, this lead to my current development in interactive and immersive media. I am now focussed on applying the skills gained through working with games to other areas such as immersive installations and accessible technology. I am skilled in audio and visual system design using tools such as MaxMSP, Unreal/Wwise and TouchDesigner and have a broad audio toolset.
 
 I am open for commisions and collaborations. Please get in touch if you would like to work together.
 
