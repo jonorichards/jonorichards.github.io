@@ -39,22 +39,9 @@ It's also great fun to find and record unusual objects, and I'm always on the hu
 These sounds make ideal source material for combining and further manipulating using software plug-ins.
 
 
-
-
-
-
-
-
-
-
-
-
-
-A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique oportunity to record in a craft brewery here in Sheffield. As you can hear, we managed to capture some excellent material which we have both made use of in various projects since.
-
 <iframe src="https://www.youtube.com/embed/6dLZuYvoO3Q?si=AU5dmB3Q09B3flJD" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-We've continued to record in some great locations together, such as the historic Braime metal factory in Leeds.
+A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique oportunity to record in a craft brewery here in Sheffield. As you can hear, we managed to capture some excellent material which we have both made use of in various projects since.
 
 <div class="gallery" data-columns="2">
     <img src="/images/jono/braime75_4.JPG">
@@ -62,6 +49,9 @@ We've continued to record in some great locations together, such as the historic
     <img src="/images/jono/braime75_2.JPG">
     <img src="/images/jono/braime75_3.JPG">
 </div>
+
+We've continued to record in some great locations together, such as the historic Braime metal factory in Leeds.
+
 
 
 
