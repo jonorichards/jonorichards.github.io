@@ -8,7 +8,7 @@ featured_image: '/images/jono/bag.jpg'
 
 ## Field Recording
 
-![](/images/jono/bluebells.JPG)
+//![](/images/jono/bluebells.JPG)
 
 Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
 
@@ -21,18 +21,18 @@ Field recording is something I've experimented with since I had a tape recorder 
 
 Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
 
-
-
-It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. These sounds make ideal source material for combining and further manipulating using software plug-ins.
-
 <div class="gallery" data-columns="3">
-    <img src="/images/jono/fieldrec1.jpg">
+    <img src="/images/jono/bird.jpg">
     <img src="/images/jono/bluebells.JPG">
     <img src="/images/froggart.JPG">
     <img src="/images/jono/fieldrec2.JPG">
     <img src="/images/jono/monksdale.JPG">
     <img src="/images/jono/cave.JPG">
 </div>
+
+It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. These sounds make ideal source material for combining and further manipulating using software plug-ins.
+
+
 
 
 
