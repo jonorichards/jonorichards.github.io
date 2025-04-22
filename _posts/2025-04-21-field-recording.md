@@ -21,11 +21,9 @@ Field recording is something I've experimented with since I had a tape recorder 
 
 Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
 
-
 <iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-As well as using these sounds in my own projects, I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
-
+I am a member of the [Wildlife Recording Society](https://www.wildlife-sound.org/) and I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
 
 It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. 
 
