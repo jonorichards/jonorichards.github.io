@@ -12,8 +12,8 @@ featured_image: '/images/jono/padley.jpg'
 
 I'm currently working with [Beardy Ramblin' Games](https://richbrown.uk/brg) here in Sheffield to provide sound design and audio mixing for an upcoming adventure game.
 The game is the third part of a trilogy featuring the comedic adventures of Brownie, a Wizard of dubious talent.
-Based partly in Sheffield/The Peak District and partly in a magical dimension, a bit like me really..it's been a lot of fun to work on!
-As a veteran Point & Click Adventure fan, it's a real treat to be working on this project, for the nostalgia and to be working alongside the talented  [Rich Brown](https://richbrown.uk).
+Based partly in Sheffield/The Peak District and partly in a magical dimension, a bit like me really.. it's been a lot of fun to work on!
+As a veteran Point & Click Adventure fan, it's a real treat to be working on this project; for the nostalgia and to be working alongside the talented  [Rich Brown](https://richbrown.uk).
 
 <div class="gallery" data-columns="3">
     <img src="/images/jono/Act2_SHITmap.jpg">
