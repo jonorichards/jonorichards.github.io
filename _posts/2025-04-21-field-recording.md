@@ -34,7 +34,7 @@ In the spring of 2022 I contributed to a crowd-sourced [Sound Library](https://h
 <div class="gallery" data-columns="3">
     <img src="/images/jono/bird75.JPG">
     <img src="/images/jono/soundtoy75.JPG">
-    <img src="/images/jono/bells75.JPG">
+    <img src="/images/jono/bells75.jpg">
     <img src="/images/jono/monksdale.JPG">
     <img src="/images/jono/cave.JPG">
 </div>
