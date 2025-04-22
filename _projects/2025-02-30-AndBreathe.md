@@ -16,6 +16,9 @@ I was recently commissioned by [Pif-Paf Theatre](https://pif-paf.co.uk) to help 
 
 It explores breath, breathing alone and breathing together, mixing science and the raw joy playing together. A tactile piece that encourages interaction and mindfulness.
 
+A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. And..Breathe is now touring across the UK.
+
+
 <div class="gallery" data-columns="3">
     <img src="/images/jono/deskab.jpg">
     <img src="/images/jono/ppworkshop3.jpg">
@@ -35,5 +38,4 @@ Collaborating on this project I made use of TouchDesigner, Ableton Live and Ardu
 	<img src="/images/jono/oldham5.jpg">
 </div>
 
-A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. And..Breathe is now touring across the UK.
 
