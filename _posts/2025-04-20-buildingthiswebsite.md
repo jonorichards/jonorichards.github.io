@@ -19,7 +19,7 @@ This seemed like a no-brainer since it would give me the autonomy I desired as w
 
 After getting [Ruby](https://ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com) up and running in the command line, I set up a [Github Pages](https://pages.github.com) repository and installed a Jekyll portfolio theme. I spent some time customising the layout and settings then proceeded to fill out the various sections with my projects and other info using [Markdown](https://markdownguide.org) formatting.
 
-It's been really nice going through some of these pieces of work again, reflecting on how much I've learnt since, and a nice challenge to build my own site and be free from greedy hosting businesses. In addition to the project page, I aim to use this blog to document all the additional work and experiments that don't fall into the 'project' catagory.. I'm always learning something new, which will hopefully be of interest to others!
+It's been really nice going through some of these pieces of work again, reflecting on how much I've learnt since, and a nice challenge to build my own site and be free from greedy hosting businesses. In addition to the project page, I aim to use this blog to document all the additional work and experiments that don't fall into the 'project' catagory. I'm always learning something new, which will hopefully be of interest to others!
 
 Cheers
 J
