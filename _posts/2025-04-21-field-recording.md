@@ -8,7 +8,7 @@ featured_image: '/images/jono/monksdale.JPG'
 
 ## Field Recording
 
-![](/images/jono/bluebells.jpg)
+![](/images/jono/bluebells.JPG)
 
 Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
 
