@@ -54,6 +54,7 @@ We've continued to record in some great locations together, such as the historic
 
 I use a range of mics for different situations, but more often than not my trusty Sony D100 is what i reach for. Simply put, it's convenient and sounds amazing. The only thing i wish it had were external XLR inputs, but you can't have everything and I'm lucky to have one since they're now discontinued and hard to find.
 
+My thinking is that the best tools are ones most convenient to use, the setup time required for more elaborate setups often just means you miss the best recording oportunities..
 
 
 
