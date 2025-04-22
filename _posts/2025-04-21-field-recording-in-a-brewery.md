@@ -14,8 +14,8 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
 
 <div class="gallery" data-columns="3">
     <img src="/images/jono/fieldrec1.jpg">
-    <img src="/images/jono/bluebells.jpg">
-    <img src="/images/fieldrec2.jpg">
+    <img src="/images/jono/bluebells.JPG">
+    <img src="/images/fieldrec2.JPG">
     <img src="/images/jono/wcj.jpg">
     <img src="/images/jono/monksdale.jpg">
     <img src="/images/jono/cave.jpg">
@@ -27,7 +27,7 @@ It's also great fun to find and record unusual objects, and I'm always on the hu
 <div class="gallery" data-columns="2">
     <img src="/images/jono/fieldrec1.jpg">
     <img src="/images/jono/bluebells.jpg">
-    <img src="/images/fieldrec2.jpg">
+    <img src="/images/fieldrec2.JPG">
     <img src="/images/jono/wcj.jpg">
     <img src="/images/jono/monksdale.jpg">
     <img src="/images/jono/cave.jpg">
