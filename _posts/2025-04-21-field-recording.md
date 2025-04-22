@@ -38,7 +38,7 @@ These sounds make ideal source material that can be combined and further manipul
 
 <iframe src="https://www.youtube.com/embed/6dLZuYvoO3Q?si=AU5dmB3Q09B3flJD" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique oportunity to record in a craft brewery here in Sheffield. As you can hear, we managed to capture some excellent material which we have both made use of in various projects since.
+A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique oportunity to record in a craft brewery here in Sheffield. As you can hear in the video, we managed to capture some excellent material which we have both made use of in various projects since.
 
 <div class="gallery" data-columns="2">
     <img src="/images/jono/braime75_4.JPG">
@@ -53,5 +53,5 @@ We've continued to record in some great locations together, such as the historic
 
 I use a range of microphones for different situations, such as the tiny Lom - Usi Pro, a Rode shotgun and various contact mics. However, more often than not I reach for my trusty hand-held [Sony PCM D100](https://www.sony.com/lr/electronics/voice-recorders/pcm-d100). Simply put, it's convenient and sounds amazing. The reduced setup time compared to more elaborate rigs means you're less likely to miss those fleeting but golden recording oportunities.
 
-I'm currently working on sound for a [video game](https://store.steampowered.com/app/3424080/) which features lots of bucolic rural settings. There's so many of these locations that I surprisingly found myself myself short of bird sounds, so another visit to the Peak District must be in order!
+I'm currently working on sound for a [video game](https://store.steampowered.com/app/3424080/) which features lots of bucolic rural settings. There's so many of these locations that I surprisingly found myself short of bird sounds, so another visit to the Peak District must be in order!
 
