@@ -35,8 +35,6 @@ In the spring of 2022 I contributed to a crowd-sourced [Sound Library](https://h
     <img src="/images/jono/bird75.JPG">
     <img src="/images/jono/soundtoy75.JPG">
     <img src="/images/jono/bells75.jpg">
-   
- 
 </div>
 
 It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. These sounds make ideal source material for combining and further manipulating using software plug-ins.
