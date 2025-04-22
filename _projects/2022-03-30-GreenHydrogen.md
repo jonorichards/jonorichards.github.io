@@ -1,5 +1,5 @@
 ---
-title: Sound Design for Motions Videos UK
+title: Sound Design for Motion Videos UK
 subtitle: 'Commercial Sound Design'
 date: 2022-03-30 00:00:00
 description: In April 2022 I was commissioned by Motion Videos UK to provide sound design and audio mixing for an educational feature about Green Hydrogen
