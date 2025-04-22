@@ -8,6 +8,8 @@ featured_image: '/images/jono/monksdale.JPG'
 
 ## Field Recording
 
+![](/images/jono/bluebells.jpg)
+
 Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
 
 Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
