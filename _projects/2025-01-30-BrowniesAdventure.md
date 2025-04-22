@@ -28,7 +28,7 @@ As a veteran Point & Click Adventure fan, it's a real treat to be working on thi
 
 ![](/images/jono/meandrich.jpg)
 
-The demo is now available to play on the popular gaming platfrom [Steam](https://store.steampowered.com/app/3424080/Brownies_Adventure_The_Final_Resolution_Demo) and the full game is set for release in Winter 2025.
+The demo is now available to play on the popular gaming platform [Steam](https://store.steampowered.com/app/3424080/Brownies_Adventure_The_Final_Resolution_Demo) and the full game is set for release in Winter 2025.
 
 ![](/images/jono/BBC1_resize.jpg)
 
