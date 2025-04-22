@@ -6,6 +6,14 @@ description: I'm currently working with local game dev Rich Brown on an original
 featured_image: '/images/jono/padley.jpg'
 ---
 
+![](/images/jono/meandrich.jpg)
+
+## Brownie's Adventure - The Final Resolution
+
+I'm currently contracted by [Beardy Ramblin' Games](https://richbrown.uk/brg) here in Sheffield to provide sound design and audio mixing for an upcoming adventure game.
+The game is the third part of a trilogy featuring the comedic adventures of Brownie, a Wizard of dubious talent.
+Based partly in Sheffield/The Peak District and partly in a magical dimention, a bit like me really..it's been a lot of fun to work on!
+As a veteran Point & Click Adventure fan, it's a real treat to be working on this project, for the nostalgia and to be working alongside the talented  [Rich Brown](https://richbrown.uk).
 
 <div class="gallery" data-columns="3">
     <img src="/images/jono/Act2_SHITmap.jpg">
@@ -16,22 +24,11 @@ featured_image: '/images/jono/padley.jpg'
     <img src="/images/jono/padley view.jpg">
 </div>
 
-
-## Brownie's Adventure - The Final Resolution
-
-
-
-I'm currently contracted by [Beardy Ramblin' Games](https://richbrown.uk/brg) here in Sheffield to provide sound design and audio mixing for an upcoming adventure game.
-The game is the third part of a trilogy featuring the comedic adventures of Brownie, a Wizard of dubious talent.
-Based partly in Sheffield/The Peak District and partly in a magical dimention, a bit like me really..it's been a lot of fun to work on!
-As a veteran Point & Click Adventure fan, it's a real treat to be working on this project, for the nostalgia and to be working alongside the talented  [Rich Brown](https://richbrown.uk).
-
-![](/images/jono/meandrich.jpg)
-
-The demo is now available to play on the popular gaming platform [Steam](https://store.steampowered.com/app/3424080/Brownies_Adventure_The_Final_Resolution_Demo) and the full game is set for release in Winter 2025.
-
 ![](/images/jono/BBC1_resize.jpg)
 
-Shortly after the release of the demo, we recieved quite a bit of press, the most noteworthy being a feature on the [BBC News](https://bbc.co.uk/news/articles/crrzdpdzqv0o) website as well as an additional radio feature on BBC Radio Derby.
+Due to the game's regional focus, we recieved quite a bit of press, the most noteworthy being an article on the [BBC News](https://bbc.co.uk/news/articles/crrzdpdzqv0o) website as well as an additional feature on BBC Radio Derby.
 
 <iframe src="https://www.youtube.com/embed/jxjwof-R7Wc?si=Gx-rWTHZPSVWqQoS" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+The demo is now available to play on the popular gaming platform [Steam](https://store.steampowered.com/app/3424080/Brownies_Adventure_The_Final_Resolution_Demo) and the full game is set for release in Winter 2025.
