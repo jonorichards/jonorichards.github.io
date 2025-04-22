@@ -53,9 +53,7 @@ We've continued to record in some great locations together, such as the historic
 
 //![](/images/jono/lom75.jpg)
 
-I use a range of mics for different situations, but more often than not I reach for my trusty hand-held Sony D100. Simply put, it's convenient and sounds amazing. The only thing i wish it had is external XLR inputs, but you can't have everything..and I'm lucky to have one since they're now discontinued and quite hard to find.
-
-It is my belief that the best tools are ones most convenient to use. The reduced setup time of a handheld compared to more elaborate setups means you're less likely to miss those fleeting but golden recording oportunities..
+I use a range of mics for different situations, such as the tiny Usi Pro, a Rode shotgun and various contact mics. However, more often than not I reach for my trusty hand-held [Sony PCM D100](https://www.sony.com/lr/electronics/voice-recorders/pcm-d100). Simply put, it's convenient and sounds amazing. The reduced setup time of a hand-held compared to more elaborate rigs means you're less likely to miss those fleeting but golden recording oportunities..
 
 
 
