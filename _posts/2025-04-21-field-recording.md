@@ -24,7 +24,7 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
 
 <iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-As well as using these sounds in my own projects, I contributed to a crowd-sourced [Sound Library](https://https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
+As well as using these sounds in my own projects, I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
 
 
 It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. 
