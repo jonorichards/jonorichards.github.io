@@ -23,7 +23,7 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
 
 <iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-I am a member of the [Wildlife Recording Society](https://www.wildlife-sound.org/) and I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
+I am a member of the [Wildlife Recording Society](https://www.wildlife-sound.org/), a valuable source of expertise, and the Field Recording Slack group remains a constant source of inspiration. I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) they organised in spring 2022. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
 
 It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. 
 
