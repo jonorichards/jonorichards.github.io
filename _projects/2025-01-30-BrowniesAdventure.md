@@ -24,9 +24,10 @@ As a veteran Point & Click Adventure fan, it's a real treat to be working on thi
     <img src="/images/jono/padley view.jpg">
 </div>
 
-![](/images/jono/BBC1_resize.jpg)
-
 Due to the game's regional focus, we recieved quite a bit of press, the most noteworthy being an article on the [BBC News](https://bbc.co.uk/news/articles/crrzdpdzqv0o) website as well as an additional feature on BBC Radio Derby.
+
+
+![](/images/jono/BBC1_resize.jpg)
 
 <iframe src="https://www.youtube.com/embed/jxjwof-R7Wc?si=Gx-rWTHZPSVWqQoS" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
