@@ -18,7 +18,7 @@ In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https
 
 ![](/images/jono/cruxfestmain.jpg)
 
-I documented the whole project and put together a video for Under The Stars to showcase our development process, you can watch it here.
+I documented the whole project and put together a video for Under The Stars to showcase our development process, you can watch it here:
 
 <iframe src="https://www.youtube.com/embed/vibqQOKL_s4?si=s8Kqz92cM_qF_7Qm" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
