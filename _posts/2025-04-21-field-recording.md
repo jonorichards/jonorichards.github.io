@@ -8,7 +8,7 @@ featured_image: '/images/jono/bag.jpg'
 
 ## Field Recording
 
-//![](/images/jono/bluebells.JPG)
+//![](/images/jono/monksdale2.JPG)
 
 Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
 
@@ -20,6 +20,16 @@ Field recording is something I've experimented with since I had a tape recorder 
 </div>
 
 Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
+
+In the spring of 2022 I contributed to a crowd-sourced [Sound Library](https://https://frscharity.org/Water_and_Ice/) organised by the Field Recording Slack group. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
+
+<iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
 
 <div class="gallery" data-columns="3">
     <img src="/images/jono/bird.jpg">
