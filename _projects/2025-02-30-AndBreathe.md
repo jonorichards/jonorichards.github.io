@@ -29,7 +29,7 @@ A public prototype was shown at [Otherham Winter Light Festival](https://fluxrot
    
 </div>
 
-Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone as well as globally across its architecture.
+Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I used sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone as well as globally across its architecture.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/jono/oldham1.jpg">
