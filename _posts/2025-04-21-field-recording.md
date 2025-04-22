@@ -60,7 +60,7 @@ We've continued to record in some great locations together, such as the historic
     <img src="/images/jono/braime75_4.JPG">
     <img src="/images/jono/braime75_1.JPG">
     <img src="/images/jono/braime75_2.JPG">
-    <img src="/images/jono/braime75_3.JPG>
+    <img src="/images/jono/braime75_3.JPG">
 </div>
 
 
