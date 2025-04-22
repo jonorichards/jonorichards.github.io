@@ -10,7 +10,7 @@ featured_image: '/images/jono/bag.jpg'
 
 //![](/images/jono/monksdale2.JPG)
 
-Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
+Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
 
 <div class="gallery" data-columns="2">
     <img src="/images/jono/fieldrec1.jpg">
@@ -19,11 +19,11 @@ Field recording is something I've experimented with since I had a tape recorder 
     <img src="/images/jono/cave.JPG">
 </div>
 
-Growing up in North Yorkshire and now residing in Sheffield, I've always been lucky to have access to the outdoors. The Peak District is a brilliant place to record the sounds of nature, as long as you're willing to time your visits to minimise extranious noise from people, cars and planes.
+The [Wildlife Recording Society](https://www.wildlife-sound.org/) are a valuable source of expertise, and the Field Recording Slack group is full of very talented people willing to share thier knowledge. I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) they organised in spring 2022. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
 
 <iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-I am a member of the [Wildlife Recording Society](https://www.wildlife-sound.org/), a valuable source of expertise, and the Field Recording Slack group remains a constant source of inspiration. I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) they organised in spring 2022. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
+
 
 It's also great fun to find and record unusual objects, and the hunt for things that produce interesting tones and textures never ceases! 
 
