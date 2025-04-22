@@ -46,7 +46,7 @@ A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersg
     <img src="/images/jono/braime75_3.JPG">
 </div>
 
-We've continued to record in some great locations together, such as the historic [Braime metal pressing factory](https://braimegroup.com/history)in Leeds.
+We've continued to record in some great locations together, such as the historic [Braime](https://braimegroup.com/history) metal pressing factory in Leeds.
 
 //![](/images/jono/lom75.jpg)
 
