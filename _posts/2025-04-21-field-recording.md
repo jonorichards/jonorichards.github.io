@@ -36,8 +36,7 @@ It's also great fun to find and record unusual objects, and I'm always on the hu
     <img src="/images/jono/springs75.jpg">
 </div>
 
-These sounds make ideal source material for combining and further manipulating using software plug-ins.
-
+These sounds make ideal source material that can be combined and further manipulated using software.
 
 <iframe src="https://www.youtube.com/embed/6dLZuYvoO3Q?si=AU5dmB3Q09B3flJD" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
