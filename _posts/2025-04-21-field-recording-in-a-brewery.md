@@ -16,9 +16,9 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
     <img src="/images/jono/fieldrec1.jpg">
     <img src="/images/jono/bluebells.JPG">
     <img src="/images/fieldrec2.JPG">
-    <img src="/images/jono/wcj.jpg">
-    <img src="/images/jono/monksdale.jpg">
-    <img src="/images/jono/cave.jpg">
+    <img src="/images/jono/wcj.JPG">
+    <img src="/images/jono/monksdale.JPG">
+    <img src="/images/jono/cave.JPG">
 </div>
 
 It's also great fun to find and record unusual objects, and I'm always on the hunt for things that produce interesting tones and textures. These sounds make ideal source material for combining and further manipulating using software plug-ins.
