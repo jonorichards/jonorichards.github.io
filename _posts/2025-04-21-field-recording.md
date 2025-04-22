@@ -15,7 +15,7 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
 <div class="gallery" data-columns="3">
     <img src="/images/jono/fieldrec1.jpg">
     <img src="/images/jono/bluebells.JPG">
-    <img src="/images/fieldrec2.JPG">
+    <img src="/images/monksdale2.JPG">
     <img src="/images/jono/wcj.JPG">
     <img src="/images/jono/monksdale.JPG">
     <img src="/images/jono/cave.JPG">
