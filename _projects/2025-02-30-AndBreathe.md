@@ -6,7 +6,7 @@ description: I recently collaborated on an interactive sound & light installatio
 featured_image: '/images/jono/andbreatheroth.jpg'
 ---
 
-![](/images/jono/oldham1.jpg)
+![](/images/jono/oldham5.jpg)
 
 
 ## And..Breathe
