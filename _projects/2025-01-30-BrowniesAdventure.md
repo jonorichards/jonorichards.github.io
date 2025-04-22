@@ -6,14 +6,14 @@ description: I'm currently working with local game dev Rich Brown on an original
 featured_image: '/images/jono/padley.jpg'
 ---
 
-```html
+
 <div class="gallery" data-columns="3">
     <img src="/images/jono/Act2_SHITmap.jpg">
     <img src="/images/jono/Act3_waterfall.jpg">
     <img src="/images/jono/Bridge.jpg">
     <img src="/images/jono/Peninsula map.jpg">
 </div>
-```
+
 
 ## Brownie's Adventure - The Final Resolution
 
