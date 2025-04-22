@@ -12,6 +12,8 @@ featured_image: '/images/jono/padley.jpg'
     <img src="/images/jono/Act3_waterfall.jpg">
     <img src="/images/jono/Bridge.jpg">
     <img src="/images/jono/Peninsula map.jpg">
+    <img src="/images/jono/Tellersorders">
+    <img src="/images/jono/padley view.jpg">
 </div>
 
 
