@@ -19,7 +19,7 @@ Growing up in North Yorkshire and now residing in Sheffield, I've always been lu
     <img src="/images/jono/cave.JPG">
 </div>
 
-The [Wildlife Recording Society](https://www.wildlife-sound.org/) are a valuable source of expertise and the Field Recording Slack group is full of very talented people willing to share thier knowledge. I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) they organised for charity in spring 2022. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
+The [Wildlife Recording Society](https://www.wildlife-sound.org/) are a valuable source of expertise and the Field Recording Slack group is full of very talented people willing to share their knowledge. I contributed to a crowd-sourced [Sound Library](https://frscharity.org/Water_and_Ice/) they organised for charity in spring 2022. The library is available in return for donations to Doctors Without Borders, The Red Cross and Unicef.
 
 <iframe src="https://www.youtube.com/embed/4cYzQ42azjc?si=kkZrCBOEXeQTI6sx" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
@@ -37,7 +37,7 @@ These sounds make ideal source material that can be combined and further manipul
 
 <iframe src="https://www.youtube.com/embed/6dLZuYvoO3Q?si=AU5dmB3Q09B3flJD" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique oportunity to record in a craft brewery here in Sheffield. As you can hear in the video, we managed to capture some excellent material which we have both made use of in various projects since.
+A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersgameaudio.co.uk/) and I had the unique opportunity to record in a craft brewery here in Sheffield. As you can hear in the video, we managed to capture some excellent material which we have both made use of in various projects since.
 
 <div class="gallery" data-columns="2">
     <img src="/images/jono/braime75_4.JPG">
