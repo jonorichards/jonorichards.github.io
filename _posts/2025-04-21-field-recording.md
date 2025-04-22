@@ -1,7 +1,7 @@
 ---
 title: 'Field Recording'
 date: 2025-04-21 00:00:00
-description: Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music..and sound more generally, began.
+description: Field recording is something I've experimented with since I had a tape recorder as a child. Quite randomly I was exposed to the work of Brain Eno in my teens and a fascination with ambient music.. and sound more generally, began.
 featured_image: '/images/jono/bag.jpg'
 ---
 
