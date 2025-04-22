@@ -51,6 +51,8 @@ A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersg
 
 We've continued to record in some great locations together, such as the historic Braime metal factory in Leeds.
 
+//![](/images/jono/lom75.JPG)
+
 I use a range of mics for different situations, but more often than not I reach for my trusty hand-held Sony D100. Simply put, it's convenient and sounds amazing. The only thing i wish it had is external XLR inputs, but you can't have everything..and I'm lucky to have one since they're now discontinued and quite hard to find.
 
 It is my belief that the best tools are ones most convenient to use. The reduced setup time of a handheld compared to more elaborate setups means you're less likely to miss those fleeting but golden recording oportunities..
