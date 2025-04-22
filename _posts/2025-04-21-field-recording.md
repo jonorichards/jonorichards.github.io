@@ -52,6 +52,8 @@ A few summers ago my friend and collaborator [Josh Foers](https://www.joshfoersg
 
 We've continued to record in some great locations together, such as the historic Braime metal factory in Leeds.
 
+I use a range of mics for different situations, but more often than not my trusty Sony D100 is what i reach for. Simply put, it's convenient and sounds amazing. The only thing i wish it had were external XLR inputs, but you can't have everything and I'm lucky to have one since they're now discontinued and hard to find.
+
 
 
 
