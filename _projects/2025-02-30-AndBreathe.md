@@ -29,11 +29,10 @@ It explores breath, breathing alone and breathing together, mixing science and t
 Collaborating on this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I utilised sensor data from public interaction with the 6 zones of play throughout the structure, which in turn affect changes in both sound and light at each zone as well as globally across its architecture.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/jono/deskab.jpg">
-	<img src="/images/jono/ppdesk.jpg">
-	<img src="/images/jono/ppworkshop3.jpg">
-	<img src="/images/jono/ppxmasroth1.jpg">
-	<img src="/images/jono/pprothwh1.jpg">
+	<img src="/images/jono/oldham1.jpg">
+	<img src="/images/jono/oldham2.jpg">
+	<img src="/images/jono/oldham4.jpg">
+	<img src="/images/jono/oldham5.jpg">
 </div>
 
 A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. And..Breathe is now touring across the UK.
