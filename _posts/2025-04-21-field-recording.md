@@ -51,7 +51,7 @@ We've continued to record in some great locations together, such as the historic
 
 //![](/images/jono/lom75.jpg)
 
-I use a range of microphones for different situations, such as the tiny Lom - Usi Pro, a Rode shotgun and various contact mics. However, more often than not I reach for my trusty hand-held [Sony PCM D100](https://www.sony.com/lr/electronics/voice-recorders/pcm-d100). Simply put, it's convenient and sounds amazing. The reduced setup time compared to more elaborate rigs means you're less likely to miss those fleeting but golden recording oportunities..
+I use a range of microphones for different situations, such as the tiny Lom - Usi Pro, a Rode shotgun and various contact mics. However, more often than not I reach for my trusty hand-held [Sony PCM D100](https://www.sony.com/lr/electronics/voice-recorders/pcm-d100). Simply put, it's convenient and sounds amazing. The reduced setup time compared to more elaborate rigs means you're less likely to miss those fleeting but golden recording oportunities.
 
-
+I'm currently working on sound for a [video game](https://store.steampowered.com/app/3424080/) which features lots of bucolic rural settings. There's so many of these locations that I surprisingly found myself myself short of bird sounds, so another visit to the Peak District must be in order!
 
