@@ -31,7 +31,7 @@ It's also great fun to find and record unusual objects, and I'm always on the hu
     <img src="/images/jono/bird75.JPG">
     <img src="/images/jono/things75.jpg">
     <img src="/images/jono/bells75.jpg">
-    <img src="/images/jono/srings75.JPG">
+    <img src="/images/jono/strings75.JPG">
 </div>
 
 These sounds make ideal source material for combining and further manipulating using software plug-ins.
