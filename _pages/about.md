@@ -10,7 +10,7 @@ featured_image: /images/jono/me_modular_rs.jpg
 ![](/images/jono/me_modular_rs.jpg)
 
 Hello I'm Jono, a Sound Designer, Creative Technologist and Community Arts Practitioner based in Sheffield, UK.
-I provide sound and technology for installations, games, commercials, sample libraries, film and theatre projects. As an arts practitioner, I offer workshop sessions as well as bespoke technical solutions with a focus on accessibility.
+I provide sound and technology for a range of [applications](https://jonorichards.github.io) from art installations to video games and much inbetween. As an arts practitioner, I offer workshop sessions as well as bespoke technical solutions with a focus on accessibility.
 
 I have a background in music production spanning over 25 years, having worked as a [solo artist](https://soundcloud.com/johnnysideways) and collaborator on many projects. Throughout this time I have worked with numerous teams and professionals across multiple disciplines in the arts.
 
