@@ -16,7 +16,7 @@ I was recently commissioned by [Pif-Paf Theatre](https://pif-paf.co.uk) to help 
 
 It explores breath, breathing alone and breathing together, mixing science and the raw joy of playing together. A tactile piece that encourages interaction and mindfulness.
 
-A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. And..Breathe is now touring across the UK.
+A public prototype was shown at [Otherham Winter Light Festival](https://fluxrotherham.org.uk/otherham-winter-light-festival-2025/) in January 2025 and the piece premiered a month later at [Illuminate - Light Night](https://hla.oldham.gov.uk/illuminate/) in Oldham. The production is now touring across the UK.
 
 
 <div class="gallery" data-columns="3">
