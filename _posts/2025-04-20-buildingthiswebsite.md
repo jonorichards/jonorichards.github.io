@@ -15,8 +15,6 @@ Having no prior web development experience but wanting autonomy from the various
 
 This seemed like a no-brainer since it would give me the autonomy I desired as well as demonstrating my ability to use Github without me explicity having to say so, due to the free 'github.io' handle. Whilst it is possible to buy a custom domain name and point to it, I quite like the Github handle so for now I'll see how that goes.
 
-![](/images/jono/githubpages.jpg)
-
 After getting [Ruby](https://ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com) up and running in the command line, I set up a [Github Pages](https://pages.github.com) repository and installed a Jekyll portfolio theme. I spent some time customising the layout and settings then proceeded to fill out the various sections with my projects and other info using [Markdown](https://markdownguide.org) formatting.
 
 It's been really nice going through some of these pieces of work again, reflecting on how much I've learnt since, and a nice challenge to build my own site and be free from greedy hosting businesses. In addition to the project page, I aim to use this blog to document all the additional work and experiments that don't fall into the 'project' catagory. I'm always learning something new, which will hopefully be of interest to others!
