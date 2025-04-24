@@ -31,9 +31,6 @@ A public prototype was shown at [Otherham Winter Light Festival](https://fluxrot
 
 To develop the tech for this project I made use of TouchDesigner, Ableton Live and Arduino/ESP32 microcontrollers. I used sensor data from public interaction with the 6 zones of play, to affect changes in both sound and light at each zone as well as globally across its architecture. The beautiful wooden structure (made from bent Ash) was crafted by the amazing Pete Gunson, with whom I also worked closely on the hardware implementation. The interactive soundtrack was produced by Eleanor Hooper who also worked with me on it's implementation.
 
-<iframe src="https://www.instagram.com/reel/DFHwjftoQ3e/?utm_source=ig_embed&amp;utm_campaign=loading" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-
 <div class="gallery" data-columns="1">
 	<img src="/images/jono/oldham1.jpg">
 	<img src="/images/jono/oldham2.jpg">
