@@ -16,6 +16,10 @@ The system has now been used at numerous events such as [Tramlines Festival](htt
 
 In April 2025 we were invited to the [Crux - Festival of Audiovisual Arts](https://festival.crux-events.org) to showcase our project along with the fantastic [Drake Music](https://drakemusic.org). It was a real honour for the work to be recognised by such a pioneering organisation whose values I share deeply.
 
+
+<iframe src="https://www.youtube.com/embed/HImTKseVYNw?si=thL1oP05BdJ_rjKp" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
 ![](/images/jono/cruxfestmain.jpg)
 
 I documented the whole project and put together a video for Under The Stars to showcase our development process, you can watch it here:
